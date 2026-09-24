@@ -51,7 +51,6 @@ The project includes SQL queries for:
 
 - `Hospital_Patient_Care_Analytics.sql` – SQL queries
 - `Hospital_Patient_Care_Analytics.pptx` – Project presentation
-- `ER_Diagram.png` – Database ER diagram
 
 ## 📈 Key Insights
 
